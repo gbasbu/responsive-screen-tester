@@ -2,9 +2,9 @@
 
 ## Live demo link
 
-> [Live Demo](responsive-screen-tester.vercelapp)
+> [Live Demo](https://responsive-screen-tester.vercel.app/)
 
-![Screenshot](screenshots/screenshot-1)
+![Screenshot](screenshots/screenshot-1.PNG)
 
 ## Project setup
 ```
